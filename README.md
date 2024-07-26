@@ -4,6 +4,7 @@ In this repository, I share a CSV file with fictional data about bakery sales an
 
 ## Story 
 As the owner of a bakery, it's crucial to have a comprehensive understanding of the financial health and performance of the business. I created a dashboard to gain deeper insights into the sales and profitability.
+
 Here are the key aspects I focus on:
 * Quickly assessing revenue, costs, profit, and margin.
 * Analyzing financial performance over time and against the same period from the previous year.
@@ -13,6 +14,7 @@ Here are the key aspects I focus on:
 
 ## Check out the video below to see the dashboard in action!:
 Or try for yourself. Access the dashboard [here](https://lookerstudio.google.com/u/0/reporting/2726f672-a2d1-41eb-a873-fa2b32ddc67f/page/aPjMD).
-![.](https://github.com/ThiagoRMFagundes/lookerstudio_financial_analysis/blob/main/readme_files/video.mkv)
+![.](https://github.com/ThiagoRMFagundes/lookerstudio_financial_analysis/blob/main/readme_files/LightMode.png)
+![.](https://github.com/ThiagoRMFagundes/lookerstudio_financial_analysis/blob/main/readme_files/DarkMode.png)
 
 Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/thiagormfagundes/).
