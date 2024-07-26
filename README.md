@@ -13,8 +13,8 @@ Here are the key aspects I focus on:
 * Viewing all relevant information for each product, with a particular focus on identifying products with a margin below 40%.
 
 ## Check out the images below to see a preview of the dashboard!:
-Or try for yourself. Access the dashboard <a href="https://lookerstudio.google.com/u/0/reporting/2726f672-a2d1-41eb-a873-fa2b32ddc67f/page/aPjMD" target="_blank">here</a>.
-![.](https://lookerstudio.google.com/u/0/reporting/2726f672-a2d1-41eb-a873-fa2b32ddc67f/page/aPjMD)
-![.](https://github.com/ThiagoRMFagundes/lookerstudio_financial_analysis/blob/main/readme_files/DarkMode.png)
+Or try for yourself. Access the dashboard [here](https://lookerstudio.google.com/u/0/reporting/2726f672-a2d1-41eb-a873-fa2b32ddc67f/page/aPjMD).
+[![.](https://github.com/ThiagoRMFagundes/lookerstudio_financial_analysis/blob/main/readme_files/LightMode.png)](https://lookerstudio.google.com/u/0/reporting/2726f672-a2d1-41eb-a873-fa2b32ddc67f/page/aPjMD)
+[![.](https://github.com/ThiagoRMFagundes/lookerstudio_financial_analysis/blob/main/readme_files/DarkMode.png)](https://lookerstudio.google.com/u/0/reporting/2726f672-a2d1-41eb-a873-fa2b32ddc67f/page/p_nwgoww92id)
 
 Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/thiagormfagundes/).
